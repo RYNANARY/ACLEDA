@@ -4,7 +4,7 @@
   width: 100%;
   height: 210px;
   z-index: 100;
-}
+} 
 .container > header > nav {
   position: fixed;
 }
